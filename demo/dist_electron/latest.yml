@@ -1,0 +1,8 @@
+version: 0.20221214.25
+files:
+  - url: app.exe
+    sha512: U7OTFY34cRveQQVjPaX6TN4pdmDlWJ4YF7Z04V6lcITfLGohH3n/PCAv5wQuL6qgM8Kbs6uWIFrpnN1LXxdD4A==
+    size: 60648053
+path: app.exe
+sha512: U7OTFY34cRveQQVjPaX6TN4pdmDlWJ4YF7Z04V6lcITfLGohH3n/PCAv5wQuL6qgM8Kbs6uWIFrpnN1LXxdD4A==
+releaseDate: '2022-12-14T07:50:57.818Z'
